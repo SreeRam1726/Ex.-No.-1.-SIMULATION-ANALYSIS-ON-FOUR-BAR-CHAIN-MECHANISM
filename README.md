@@ -55,8 +55,8 @@
 ## Output:
 
 
-### Name: Jeevanantham C
-### Register Number: 212225240059
+### Name: Manga Muni Sree Ram
+### Register Number: 212225040223
 
 <img width="1166" height="715" alt="image" src="https://github.com/user-attachments/assets/9b47abe7-8c3c-49d3-98d6-5167ebefd4c9" />
 
